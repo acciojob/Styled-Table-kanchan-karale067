@@ -1,1 +1,24 @@
-/* your code */
+.table{
+	padding:5px;
+	border:2px solid black;
+	margin:20px;
+	
+}
+#th1{
+	color:white;
+	background-color:aquamarine;
+	
+
+}
+.tr1{
+	color:white;
+	background-color:gray;
+}
+.tr2{
+	color:black;
+	background-color:white;
+}
+.tr3{
+	color:white;
+	background-color:gray;
+}
